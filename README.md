@@ -3,8 +3,10 @@
 </p>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=AI+ENGINEER;DATA+SCIENTIST;FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:39FF14,100:00F7FF&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=900&height=120&lines=AI+ENGINEER+%7C+DATA+SCIENTIST;FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:39FF14,100:00F7FF&height=120&section=header"/>
+
+
 
