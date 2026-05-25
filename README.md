@@ -1,4 +1,3 @@
-````md id="m4r8qk"
 <div align="center">
 
 <img src="https://github.com/hareshr066/hareshr066/blob/main/github%20profile%20banner.png" width="100%" />
@@ -205,5 +204,3 @@ MISSION:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:39FF14,70:8A2BE2,100:0D1117&height=160&section=footer"/>
-
-````
