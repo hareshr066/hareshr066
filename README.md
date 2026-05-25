@@ -32,4 +32,8 @@ Location: India
 <p align="center">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareshr066&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </p>
+<h2 align="center">🐍 CONTRIBUTION MATRIX 🐍</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hareshr066/output/main/github-contribution-grid-snake-dark.svg" />
+</p>
