@@ -7,6 +7,15 @@
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:39FF14,100:00F7FF&height=120&section=header"/>
+<h2 align="center">⚡ SYSTEM STATUS ⚡</h2>
+
+```yaml
+Name: HARESH R
+Role: AI Engineer & Data Scientist
+Focus: Intelligent Systems & Full Stack Development
+Status: Building • Learning • Innovating
+Location: India
+```
 
 
 
