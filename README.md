@@ -16,6 +16,9 @@ Focus: Intelligent Systems & Full Stack Development
 Status: Building • Learning • Innovating
 Location: India
 ```
+<h2 align="center">⚔️ TECH ARSENAL ⚔️</h2>
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,mongodb,mysql,flask,git,github,vscode,tensorflow,pytorch,pandas,numpy&theme=dark" />
+</p>
 
