@@ -8,25 +8,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=1800&pause=500&color=39FF14&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=⚡+HARESH+R+⚡;AI+ENGINEER+•+FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+INTELLIGENT+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&multiline=true&width=1200&height=130&lines=⚡+HARESH+R+⚡;AI+ENGINEER+•+FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="55%" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,35:39FF14,70:8A2BE2,100:0D1117&height=150&section=header"/>
 
 <br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ4Zr3Q7ja/giphy.gif" width="100%" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:39FF14,70:8A2BE2,100:0D1117&height=160&section=header&animation=fadeIn"/>
-
-<br>
-
-<div align="center">
-
-# ⚡ SYSTEM_INITIALIZATION ⚡
+# ⚡ NEURAL CORE ⚡
 
 </div>
 
@@ -38,11 +34,11 @@ ROLE:
   - FULL STACK DEVELOPER
   - DATA SCIENCE ENTHUSIAST
 
-CURRENTLY:
-  - BUILDING AI SYSTEMS
-  - DEVELOPING FUTURISTIC APPLICATIONS
-  - CREATING SCALABLE SOLUTIONS
-  - EXPLORING INTELLIGENT AUTOMATION
+CURRENTLY_BUILDING:
+  - INTELLIGENT SYSTEMS
+  - AI APPLICATIONS
+  - FULL STACK PROJECTS
+  - FUTURISTIC INTERFACES
 
 STATUS: ONLINE
 
@@ -52,33 +48,41 @@ MISSION:
   - EVOLVE
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:8A2BE2,100:00F7FF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:8A2BE2,100:00F7FF&height=3"/>
 
 <br>
 
 <div align="center">
 
-# ⚔️ TECH_ARSENAL ⚔️
+# ⚔️ TECH ARSENAL ⚔️
+
+### 🤖 AI / DATA SCIENCE
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy&theme=dark" />
+
+<br><br>
+
+### 🌐 FULL STACK
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,html,css,js,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+### ⚡ TOOLS & CORE
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,c,cpp&theme=dark" />
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,mongodb,mysql,flask,git,github,vscode,tensorflow,pytorch,pandas,numpy&theme=dark" />
-</p>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:39FF14,100:00F7FF&height=3"/>
 
 <br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 💻 AI_TERMINAL 💻
+# 💻 AI TERMINAL 💻
 
 </div>
 
@@ -90,24 +94,26 @@ MISSION:
 > AI_ENGINE_MODULE ........ ACTIVE
 > FULL_STACK_MODULE ....... ACTIVE
 > DATA_SCIENCE_MODULE ..... ACTIVE
-> NEURAL_SYSTEMS .......... ONLINE
+> NEURAL_NETWORKS ......... ONLINE
 
-> CURRENT_TASKS:
-   • BUILDING AI APPLICATIONS
-   • DEVELOPING FUTURISTIC UI
-   • TRAINING INTELLIGENT SYSTEMS
-   • CREATING NEXT-GEN PROJECTS
+> CURRENT_OBJECTIVES:
+   • BUILD AI APPLICATIONS
+   • DEVELOP SCALABLE SYSTEMS
+   • CREATE FUTURISTIC EXPERIENCES
+   • MASTER INTELLIGENT AUTOMATION
 
-> STATUS: EVOLVING
+> SYSTEM_STATUS: EVOLVING
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:39FF14,100:00F7FF&height=4"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8A2BE2,100:39FF14&height=3"/>
 
 <br>
 
 <div align="center">
 
-# 📊 NEURAL_ANALYTICS 📊
+# 📊 SYSTEM ANALYTICS 📊
 
 </div>
 
@@ -125,15 +131,7 @@ MISSION:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="75%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 📈 ACTIVITY_MATRIX 📈
+# 📈 ACTIVITY MATRIX 📈
 
 </div>
 
@@ -143,9 +141,13 @@ MISSION:
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:8A2BE2,100:00F7FF&height=3"/>
+
+<br>
+
 <div align="center">
 
-# 🐍 CONTRIBUTION_MATRIX 🐍
+# 🐍 CONTRIBUTION MATRIX 🐍
 
 </div>
 
@@ -153,54 +155,34 @@ MISSION:
   <img src="https://raw.githubusercontent.com/hareshr066/output/main/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:39FF14,100:8A2BE2&height=4"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="70%" />
-
-</div>
-
 <br>
 
 <div align="center">
 
 # 🌐 CONNECT_PROTOCOLS 🌐
 
-</div>
-
 <p align="center">
+  <a href="https://github.com/hareshr066">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
+  </a>
 
-<a href="https://github.com/hareshr066">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
+  <a href="https://www.linkedin.com/in/r--haresh06/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/r--haresh06/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
-</a>
-
-<a href="mailto:hratos.h@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
+  <a href="mailto:hratos.h@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
 </p>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark&hideBorder" />
-
 </div>
 
 <br>
 
 <div align="center">
 
-# ⚡ ENTERING_THE_FUTURE_ONE_COMMIT_AT_A_TIME ⚡
+# ⚡ CODE • BUILD • EVOLVE ⚡
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,30:39FF14,70:8A2BE2,100:0D1117&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,35:39FF14,70:8A2BE2,100:0D1117&height=150&section=footer"/>
