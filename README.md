@@ -21,4 +21,15 @@ Location: India
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,mongodb,mysql,flask,git,github,vscode,tensorflow,pytorch,pandas,numpy&theme=dark" />
 </p>
+<h2 align="center">📊 NEURAL ANALYTICS 📊</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hareshr066&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hareshr066&theme=chartreuse-dark&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareshr066&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</p>
 
