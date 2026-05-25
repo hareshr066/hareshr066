@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=AI+ENGINEER+%7C+DATA+SCIENTIST;FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=AI+ENGINEER+%7C+DATA+SCIENTIST;FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
 
 </div>
 
@@ -15,12 +15,17 @@
 ```yaml
 Name: HARESH R
 Role: AI Engineer & Data Scientist
-Focus: Intelligent Systems & Full Stack Development
-Status: Building • Learning • Innovating
+Specialization: Intelligent Systems & Full Stack Development
+Current Status: Building • Learning • Innovating
+Focus Areas:
+  - Artificial Intelligence
+  - Data Science
+  - Full Stack Development
+  - Intelligent Applications
 Location: India
 ```
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:8A2BE2,100:00F7FF&height=2"/>
 
 <h2 align="center">⚔️ TECH ARSENAL ⚔️</h2>
 
@@ -29,6 +34,26 @@ Location: India
 </p>
 
 <br>
+
+<h2 align="center">💻 AI TERMINAL 💻</h2>
+
+```bash
+> Initializing Harish.exe
+
+> AI Engineer
+> Data Scientist
+> Full Stack Developer
+
+> Currently Building:
+   • Intelligent Systems
+   • AI Applications
+   • Full Stack Projects
+   • Scalable Solutions
+
+> Status: ONLINE
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8A2BE2,100:39FF14&height=2"/>
 
 <h2 align="center">📊 NEURAL ANALYTICS 📊</h2>
 
@@ -44,10 +69,34 @@ Location: India
 
 <br>
 
+<h2 align="center">📈 ACTIVITY GRAPH 📈</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hareshr066&theme=react-dark&bg_color=0D1117&hide_border=true&line=39FF14&color=8A2BE2&point=00F7FF" width="95%"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:39FF14,100:00F7FF&height=2"/>
+
+<h2 align="center">🧠 LEETCODE STATS 🧠</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hareshr066?theme=dark&font=Orbitron&ext=contest" />
+</p>
+
+<br>
+
 <h2 align="center">🐍 CONTRIBUTION MATRIX 🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hareshr066/output/main/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:8A2BE2,100:00F7FF&height=2"/>
+
+<h2 align="center">⚡ NEURAL THOUGHT ⚡</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <br>
@@ -69,5 +118,11 @@ Location: India
 </p>
 
 <br>
+
+<div align="center">
+
+### ⚡ "CODE • BUILD • INNOVATE • REPEAT" ⚡
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:39FF14,100:8A2BE2&height=120&section=footer"/>
